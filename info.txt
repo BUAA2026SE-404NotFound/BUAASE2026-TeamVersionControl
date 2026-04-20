@@ -1,2 +1,0 @@
-name: REROSAMA
-description: 人类
